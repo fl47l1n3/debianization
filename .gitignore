@@ -11,4 +11,5 @@
 .debhelper
 
 debhello/debian/debhello
+debhello/debian/files
 debhello/src/hello
