@@ -1,0 +1,6 @@
+debhello (0.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Firstname Lastname <your.email.address@example.org>  Thu, 20 Dec 2018 20:12:55 +0000

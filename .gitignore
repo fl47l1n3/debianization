@@ -1,0 +1,14 @@
+*.log
+*.substvars
+*.tar.gz
+*.tar.xz
+*.dsc
+*.deb
+*.ddeb
+*.build
+*.changes
+*.buildinfo
+.debhelper
+
+debhello/debian/debhello
+debhello/src/hello
