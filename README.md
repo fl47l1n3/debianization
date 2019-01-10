@@ -9,3 +9,6 @@ debmake
 # 2. Build binary package
 debuild
 ```
+
+# Links
+[Debian New Maintainers' Guide](https://www.debian.org/doc/manuals/maint-guide/index.en.html)
