@@ -12,3 +12,4 @@ debuild
 
 # Links
 [Debian New Maintainers' Guide](https://www.debian.org/doc/manuals/maint-guide/index.en.html)
+[Ubuntu Packaging Guide](http://packaging.ubuntu.com/html/)
